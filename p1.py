@@ -7,5 +7,5 @@ b2=int(input("B2:"))
 c3=int(input("C2:"))
 
 dot_product= a1*a2+ b1*b2 +c1*c2
-print("Dot product is ", dot_product )\
-print("Hiii")
+print("Dot product is:", dot_product )
+print("Greetings")
